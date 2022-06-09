@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "hbm",
+	"description": "project boilerplate",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
